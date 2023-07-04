@@ -1,0 +1,6 @@
+
+Toughts express node sequlizer mvc
+
+express npm init-y | npm install express
+
+nodemon --save-dev

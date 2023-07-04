@@ -1,0 +1,15 @@
+aprendizado node
+
+
+modulos internos : module.exports / const a = require('')
+import e exports
+core modules - interno do node path , fs , 
+modules externo - abstrair input inquirer
+modules externo - chalk personalizar console 
+erros no node - tratamento de erros com trhow e try_catch
+core modules - events tratamento de eventos
+eventos loops formas de leitura do código
+explorando console count %s
+core modules - readline lendo inputs
+module externo com minimist trabalha com os dados do modulos
+trabalhando assincrono e de forma sincrona

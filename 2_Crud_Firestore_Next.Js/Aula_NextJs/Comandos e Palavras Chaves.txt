@@ -1,0 +1,30 @@
+Aprendendo com next.js e firestore
+
+
+npx creat-next-app fundamentos
+npm run dev
+
+Aprendendo com next
+req 
+res
+status
+send()
+json
+functions
+urls dinamicas query
+useStates() hook
+fetch
+await
+onchange
+getStaticprops()
+
+conteudo estatico npm run build
+
+projeto crud
+
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+npm install --save-dev @types/react typescript
+index.tsx
+tsconfig.json
+import 'tailwind/tailwind.css _app

@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "name": "eliseu modanesi junior",
+      "email": "junior-gavioes.fita@hotmail.com",
+      "id": 1
+    },
+    {
+      "name": "Java",
+      "email": "anabeatriz@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Ana Bia",
+      "email": "Juliohenrique@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "beatriz",
+      "email": "Juliohenrique@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "eliseu",
+      "email": "",
+      "id": 5
+    },
+    {
+      "name": "",
+      "email": "junior-gavioes.fita@hotmail.com",
+      "id": 6
+    }
+  ]
+}

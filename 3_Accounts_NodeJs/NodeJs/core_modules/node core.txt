@@ -1,0 +1,24 @@
+http node server
+
+criar um servidor http  require http
+
+listar em um porta 
+
+configurar o servidor http.cretaserver(re,res
+
+configurar a listagem no servidor na porta 300 
+
+server.listen(porta)=> () {
+console.log(funcionando)
+}
+
+
+url com http
+
+criar o metodo http servidor 
+manipular a url desse servidr com o metodo url 
+se receber o nome no servidor eu digo bem nome
+se não eu envio um formualrio para preencimento do nome
+
+utilizar modulo fs lendo o arquivo html
+pelo server 

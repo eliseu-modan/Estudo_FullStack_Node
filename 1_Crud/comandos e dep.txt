@@ -1,0 +1,14 @@
+crud com jsonServer 0.13.0
+
+npm init -y
+npm i --save json-server@0.13.0 -E
+"start": "json-server --watch db.json --port 3001" 
+
+
+frontend
+creact-react-app frontend
+"axios":"0.18.0",
+    "bootstrap": "4.1.1",
+    "font-awesome" : "4.7.0",
+    "react-router" : 6.14.0",
+    "react-router-dom": "6.14.0",
